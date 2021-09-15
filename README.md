@@ -1,3 +1,3 @@
 # WeiXinGenerator
-#### 在线演示请点击 [Demo](https://mrwalie.github.io/WeiXinGenerator/index.html) 
-#### 如图片生成有问题，clone到本地以web容器方式启动即可 
+#### Click here for an online demo [Demo](https://mrwalie.github.io/WeiXinGenerator/index.html) 
+#### If there is a problem with image generation, clone to the local web container to start 
